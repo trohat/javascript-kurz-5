@@ -1,0 +1,10 @@
+1. úvod (konzole, proměnné, propojení JS se stránku atd.)
+2. vstup a výstup
+3. podmínky
+4. cykly
+5. funkce
+6. tohle ale asi přeskočíme - datové typy, řetězce, modul Math, pole, objekty
+7. DOM, výběr prvků na stránce
+8. události
+9. formuláře 
+10. nějaké live codingy
