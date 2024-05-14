@@ -1,0 +1,33 @@
+1.) Spočítejte v konzoli kolik je:
+43 plus 27
+156 minus 93
+56 krát 8
+456 děleno 8
+zbytek po dělení v předchozím příkladu (pozn. tohle jsme nedělali)
+3 na pátou
+
+1b.) Kolik vyjde "5" + "6"? Zkuste odpovědět bez zkoušení, pak si to vyzkoušejte.
+
+1c.) Kolik vyjde 2 + 3 * 7? Jak donutíme JavaScript, aby dal přednost sčítání před násobením?
+
+2.) 
+Napište skript, který zobrazí na HTML stránce dva vtipy
+pomocí alert boxů.
+
+3.) Jednoduchá kalkulačka. Uživatel zadá dvě čísla, vy do konzole postupně 
+vypíšete jejich součet, rozdíl, součin a podíl.
+
+4.) Pojďme se zabývat účetnictvím. Uživatel zadá roční příjmy, roční výdaje 
+a daňovou sazbu.
+
+Vypočítejte jaký má zisk a jaké platí daně. Vše vypište do konzole.
+
+Nápověda:
+zisk = příjmy - výdaje
+daně = daňová sazba * zisk 
+(daňová sazba může být zadávána jako 0.15 nebo jako 15 - ve druhém případě 
+musíte ještě výsledek vydělit stem)
+
+Ještě jedna nápověda:
+V HTML souboru můžete vyměnit značku script a spouštět jiný 
+JS soubor.
