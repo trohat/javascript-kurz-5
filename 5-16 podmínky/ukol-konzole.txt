@@ -1,0 +1,25 @@
+ÚKOLY NA HRANÍ SI V KONZOLI:
+
+1.) Vytvořte proměnnou libovolného jména
+a uložte do ní výsledek příkladu 56 + 4
+Zvyšte proměnnou o pět (dvěma různými způsoby)
+Vynásobte proměnnou třemi (dvěma různými způsoby)
+Zvyšte proměnnou o jedna (třemi až čtyřmi různými způsoby)
+Snižte proměnnou o jedna (třemi až čtyřmi)
+Vždy si vypisujte mezivýsledky, ať máte jistotu, že počítáte dobře
+
+2.) Vytvořte novou proměnnou a vložte do ní libovolný řetězec. Řetězec 
+bude obsahovat aspoň jedny uvozovky, jedno zpětné lomítko a jeden nový řádek.
+
+3.) Sečtěte proměnnou z bodu tři s jiným řetězcem. Výsledek uložte do nové proměnné.
+
+4.) Sečtěte proměnnou z bodu tři s číslem. Proč se tohle nemá dělat?
+
+5.) K čemu slouží operátor typeof? Použijte ho správně 2x tak, ať pokaždé vrátí jiný výsledek.
+
+6.) Co je to NaN? Jak donutíme JavaScript, aby nám něco takhle vyšlo?
+
+
+
+Pozn. pokud chcete tisknout řetězce do konzole se vším všudy, použijte 
+console.log("řetězec");

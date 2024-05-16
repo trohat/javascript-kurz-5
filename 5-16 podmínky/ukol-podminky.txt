@@ -1,0 +1,40 @@
+Poznámka ke všem úkolům:
+Pokud si chcete ušetřit trochu práce, nemusíte hodnoty číst ze vstupu. 
+Můžete si je na začátku programu nastavit jako proměnné přímo v kódu.
+
+Lehčí úkoly:
+
+1.) Zeptejte se uživatele, jestli rozumí vínu. Pokud ano, 
+nabídněte mu to nejlepší červené víno, co máte.
+Pokud ne, nabídněte mu tu nejhorší víno z krabice.
+
+2.) Čekáte na Jakuba. Přijde uživatel. Zeptejte se ho, jak se jmenuje.
+Pokud je to Jakub, pozvěte ho dál. Pokud ne, pošlete ho pryč.
+
+3.) Napište program, který bude pracovat s nabídkou v restauraci.
+Na začátku bude proměnná vek, kterou přečtete ze vstupu.
+Podle věku program rozhodne, jestli uživateli nabídne pivo nebo 
+limonádu. (Pivo bychom měli nabízet jen uživatelům starším 18 let.)
+
+Těžší úkoly:
+
+4.) Rozšiřte program z bodu 1 o různé druhy nealko nápojů pro různě staré děti
+(např. jiný nápoj pro děti 0-5, jiný pro 5-10 a jiný pro 10-18).
+
+5.) Pro dospělé použijte vniřní podmínku, kde nabídnete různé druhy tvrdého 
+alkoholu. (Nezapomeňte tam nechat to pivo, to si chtějí dát všichni.)
+Např. jiný druh pro lidi 18-30, jiný pro 30-50 a jiný pro 50+.
+
+Spusťte program a otestujte různé vstupy.
+
+6.) Program pro kontrolu čísla.
+Uživatel zadá číslo z klávesnice. Vyhovují nám jen čísla mezi deseti a dvaceti,
+nebo čísla mezi čtyřiceti a padesáti. Zkontrolujte, zda se zadané číslo nachází
+v povolených mezích Pokud ano, dejte to uživateli vědět.
+
+7.) Seznamka
+Stanovte si dvě kritéria pro nalezení partnera. Např. výška nad 180 cm a věk pod 30 let.
+Vytvořte si dvě proměnné, kde bude věk a výška kandidáta (nebo jiné hodnoty, pokud
+máte jiná kritéria). Napište program, který vypíše, jestli je pro vás daný kandidát ideální
+(splňuje obojí), nebo trochu zajímavý (splňuje aspoň jedno) nebo nezajímavý (nesplňuje nic).
+

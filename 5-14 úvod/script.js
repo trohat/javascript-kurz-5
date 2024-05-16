@@ -34,3 +34,5 @@ console.log("Za deset let ti bude " + uzivatelZa10Let);
 console.log("Za dvacet let ti bude " + uzivatelZa20Let)
 
 
+let name = 5;
+console.log(name);

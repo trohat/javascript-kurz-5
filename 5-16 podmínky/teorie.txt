@@ -1,0 +1,14 @@
+staré datové typy:
+number, string
+
+nový datový typ:
+boolean
+
+jeho hodnoty: 
+true, false
+
+operátory, jejichž pomocí vzniká boolean:
+> < >= <= == === !== !=
+
+podmínky:
+if, else (syntaxe viz kód)
