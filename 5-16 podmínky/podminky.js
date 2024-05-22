@@ -33,13 +33,14 @@ if (cislo > 0) {
 //     console.log("Číslo je nula.");
 // } 
 
-// if (cislo < 0) {
-//     console.log("Číslo je záporné.");
-// } else {
-//     console.log("Číslo NENÍ záporné");
-// }
+if (cislo < 0) {
+    console.log("Číslo je záporné.");
+} else {
+    console.log("Číslo NENÍ záporné");
+}
 
-let jmeno = "Petr";
+
+let jmeno = ("Petr");
 
 if (vek < 18) {    
     console.log("Jsi ještě dítě...");
