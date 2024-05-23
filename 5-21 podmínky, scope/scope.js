@@ -1,24 +1,24 @@
 
-let jmeno1 = "Marie"; // globální proměnná
+let jmeno = "Marie"; // globální proměnná
 
 if (true) {
     //let jmeno = "Petře";
     
     if (true) {
-        let jmeno2 = "Jakube"; // lokální proměnná 
+        let jmeno = "Jakube"; // lokální proměnná 
         // block scope
         console.log("dobrý den");
-        console.log(jmeno2);
+        console.log(jmeno);
     }
     console.log("ahoj");
-    console.log(jmeno1);
+    console.log(jmeno);
 }
 
 if (true) {
     console.log("nashledanou");
-    console.log(jmeno1);
+    console.log(jmeno);
 }
 
 console.log("děkuji");
-console.log(jmeno1);
+console.log(jmeno);
 

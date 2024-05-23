@@ -1,0 +1,8 @@
+boolean - true, false
+number - 1, 2, 3, 4
+string - "ahoj", "čau", "pět", "5"
+undefined - undefined
+null - null
+
+objekty
+symbol
