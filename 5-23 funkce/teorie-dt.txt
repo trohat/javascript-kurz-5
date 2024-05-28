@@ -1,3 +1,5 @@
+Datové typy v JavaScriptu:
+
 boolean - true, false
 number - 1, 2, 3, 4
 string - "ahoj", "čau", "pět", "5"
