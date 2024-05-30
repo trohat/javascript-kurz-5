@@ -1,0 +1,33 @@
+A.) Funkce
+Přepište všechny funkce, které jste napsali (nebo i nějaké jiné z hodin) do arrow funkcí.
+
+B.) Objekty
+Poznámka: Kdo nemá rád psy, můžete vytvářet kočky :)
+
+1.) Vytvořte objekt pes. Pes má jméno, barvu, 
+délku srsti a rasu.
+
+2.) Vypište jméno psa.
+
+3.) Vypište barvu psa.
+
+4.) Vypište délku srsti.
+
+5.) Jaký typ klíče používáte na délku srsti? Pokud 
+zatím neobsahuje mezeru tak ji tam přidejte.
+Co se změnilo když klíč obsahuje mezeru?
+Jak s ním pak budete pracovat?
+
+6.) Přidejte psovi novou vlastnost. Bude to jeho výška.
+
+7.) Přidejte ještě jednu vlastnost. Bude to znak, jestli kouše,
+hodnota bude typu boolean.
+
+8.) Přidejte nějaké metody (chování) pro psa.
+
+9.) Přidejte metodu na vypisování psa.
+
+10.) Metody otestujte tím, že je spustíte.
+
+8.) Vytvořte druhého a třetího psa, se stejnými vlastnostmi (ale 
+jinými hodnotami) a stejnými metodami jako má první pes.

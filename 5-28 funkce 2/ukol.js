@@ -55,6 +55,20 @@ function toNiceTime(seconds) {
     return niceTime(hours, minutes, seconds);
 }
 
+const toNiceTimeArrow = (seconds) => {
+    let minutes;
+    let hours;
+
+    hours = Math.floor(seconds / 3600);
+    seconds = seconds - hours * 3600;
+
+    minutes = seconds / 60
+    minutes = Math.floor(minutes)
+    seconds = seconds - minutes * 60
+
+    return niceTime(hours, minutes, seconds);
+};
+
 function toNiceTime(seconds) {
     // doesn't work with negative numbers
     let minutes;
@@ -84,5 +98,8 @@ function deltaTime(h1, m1, s1, h2, m2, s2) {
 function deltaTimeVeryShort(h1, m1, s1, h2, m2, s2) {
     return toNiceTime(Math.abs(toSeconds(h1, m1, s1) - toSeconds(h2, m2, s2)));
 }
+
+const deltaTimeVeryShortArrow = (h1, m1, s1, h2, m2, s2) => toNiceTime(Math.abs(toSeconds(h1, m1, s1) - toSeconds(h2, m2, s2)));
+
 
 
