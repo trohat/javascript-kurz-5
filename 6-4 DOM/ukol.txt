@@ -1,0 +1,26 @@
+1.) Vytvořte si HTML stránku, kde bude aspoň jeden nadpis a 
+několik odstavců a tlačítko.
+
+2.) Nadpisu přidejte id atribut, některým (ne všem) odstavcům přidejte třídy.
+
+3.) Zkuste vybírat prvky na stránce a měnit jejich text:
+a) vyberte nadpis a změňte text v něm.
+b) vyberte druhý z odstavců a změňte text v něm.
+
+4.) Vyberte poslední z odstavců (můžete mu pro vaše potřeby přidat třídu
+nebo id).
+
+5.) Nastavte mu barvu, rámeček, paddingy. Dále barvu pozadí, velikost fontu,
+a styl fontu (kurzívu).
+
+6.) Zkuste prvky vybírat různými způsoby:
+a) pomocí selektorů
+b) pomocí typu prvku, pomocí třídy, pomocí id
+c) pomocí procházení stromu - můžete začít na document.body a pak používat
+metody childNodes (nebo možná raději children), firstElementChild, lastElementChild, 
+previousElementSibling, nextElementSibling atd.
+
+7.) Přidejte nadpisu třídu "heading".
+
+8.) Najděte si některý prvek s třídou a třídu vymažte.
+
