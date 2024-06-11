@@ -1,0 +1,12 @@
+Budeme brát:
+
+cykly
+pole 
+funkce a metody pro práci s nimi
+
+CYKLY:
+for
+while, do while   
+for ... of
+for ... in    
+metody jako forEach, map nebo filter
