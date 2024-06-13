@@ -1,4 +1,4 @@
-let tabulka = document.querySelector(".nasobilka");
+let tabulka = document.querySelector(".sachovnice");
 
 let obsahTabulky = "";
 let velikostSachovnice = Number(prompt("Zadej velikost šachovnice: "))
@@ -14,5 +14,4 @@ for (let i = 1; i <= velikostSachovnice; i++) {
     }
     obsahTabulky += "</tr>";
 }
-xd
 tabulka.innerHTML = obsahTabulky;
