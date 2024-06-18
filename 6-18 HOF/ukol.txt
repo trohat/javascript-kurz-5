@@ -1,0 +1,32 @@
+1.) Vymyslete si pole s 10 náhodnými čísly. (Můžete si ho vytvořit jako 
+na hodině pomocí metody Math.random() nebo ho natvrdo nakódovat.) 
+
+Všechny další úkoly pak můžete dělat pomocí cyklů nebo pomocí funkcí vyššího řádu,
+jako jsou forEach, map a filter.
+
+1a.) Vypište všechna čísla.
+
+1b.) Zvětšte všechna čísla o 10 (a uložte je do nového pole).
+
+1c.) Vytvořte nové pole, kde budou druhé mocniny původních čísel.
+
+1d.) Vytvořte nové pola, kde budou ta čísla z původního, ale jen ta lichá.
+
+
+2.) Vytvořte pole objektů. Objekty budou zaměstnanci, budou aspoň tři, a budou mít
+jméno, plat, pohlaví a výšku.
+
+2a.) Nejdřív chceme zjistit, kdo všechno ve firmě pracuje. Vypište všechna jména.
+
+2b.) Je svátek žen, a chceme každé ženě koupit pěkný dárek. 
+Vytvořte nové pole, kde budou jen ženy.
+
+2c.) Firmě se začalo dařit. Zvětšte všem plat o 10.000. (Vytvořte nové pole s většími platy.)
+(Můžete přeskočit, je to těžké.)
+
+2d.) Postavili jsme novou budovu, ale ouha, jsou tam nízké stropy. Je potřeba vyhodit všechny, co 
+měří víc než 180 cm. Vytvořte nové pole, kde budou jen ti, kdo můžou zůstat ve firmě.
+
+2e.) Šéf chce šetřit a potřebuje zjistit, kolik ho stojí provoz firmy. Spočítejte součet všech platů.
+(Nápověda - tohle jsme nebrali a je to dost těžké. Zkuste použít reduce. 
+A nebo to prostě udělejte cyklem.)
