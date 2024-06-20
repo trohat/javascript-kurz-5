@@ -1,0 +1,18 @@
+Co brát nebudeme:
+
+Asynchronní programování (promises, async/await)
+
+Regulární výrazy
+
+OOP (prototypy, třídy, this)
+
+Další typy cyklů: for .. of, for ... in
+
+Error handling: try ... catch   
+
+Datové typy: Map, Set, Symbol
+
+Moduly
+
+Knihovny - React, Angular, Vue, Svelte
+

@@ -2,7 +2,7 @@
 na hodině pomocí metody Math.random() nebo ho natvrdo nakódovat.) 
 
 Všechny další úkoly pak můžete dělat pomocí cyklů nebo pomocí funkcí vyššího řádu,
-jako jsou forEach, map a filter.
+jako jsou forEach, map a filter. (Trénujte hlavně funkce vyššího řádu.)
 
 1a.) Vypište všechna čísla.
 

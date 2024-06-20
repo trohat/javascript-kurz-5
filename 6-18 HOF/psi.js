@@ -30,5 +30,7 @@ let mojiPsi = [pes1, pes2, pes3]
 mojiPsi.forEach(pes => console.log(pes.jmeno));
 
 let starsiPsi = mojiPsi.map(pes => ({...pes, vek: pes.vek + 1}));
+// starší = o rok starší psi, zestárli o jeden rok
 
-let vlcaci = mojiPsi.filter(pes => pes.rasa.toUpperCase() === "Vlčák".toUpperCase());
+
+let vlcaci = mojiPsi.filter(pes => pes.rasa === "vlčák");

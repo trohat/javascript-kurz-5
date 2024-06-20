@@ -1,0 +1,22 @@
+Dnes už vás nebudu šetřit, takže úkoly na sebe navazují.
+Mezivýsledky si vypisujte do konzole kvůli kontrole (viz úkol 6)
+
+1.) Vezmi řetězec "    ananas je moje nejoblíbenější ovoce    " a ulož si ho do proměnné.
+(Můžeš ho odsud překopírovat.)
+
+2.) Osekej přebytečné mezery. (Po každém kroku ověř, že řetězec obsahuje, to co má.)
+
+3.) Ověř, že řetězec začíná slovem ananas.
+
+4.) Převeď řetězec na velká písmena.
+
+5.) Nahraď slovo ananas svým oblíbeným ovocem.
+
+6.) Nezapomeň průběžně ověřovat, že řetězec obsahuje to, co má.
+
+7.) Jak je výsledný řetězec dlouhý? Vypiš jeho délku do konzole.
+
+8.) Najděte v dokumentaci nějakou zajímavou metodu pro práci se stringy, 
+kterou jsme nebrali.
+
+9.) Krásné úkoly na práci se stringy jsou v Teamsech, s dnešním datem.
