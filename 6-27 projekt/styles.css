@@ -1,0 +1,27 @@
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-image: url("pozadi.jpg");
+    background-size: cover;
+}
+
+canvas {
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    border: 30px solid #e80000;
+    border-radius: 10px;
+}
+
+button {
+    background-color: rgb(123, 10, 123);
+    color: white;
+    font-size: 30px;
+    padding: 5px 20px;
+    border: 0;
+    outline: 0;
+}
